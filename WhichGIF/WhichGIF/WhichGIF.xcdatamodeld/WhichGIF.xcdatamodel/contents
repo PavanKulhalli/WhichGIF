@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="14133" systemVersion="17E199" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="GIF" representedClassName="GIF" syncable="YES" codeGenerationType="class">
+        <attribute name="gifId" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="tags" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Tag" inverseName="gif" inverseEntity="Tag" syncable="YES"/>
+    </entity>
+    <entity name="Tag" representedClassName="Tag" syncable="YES" codeGenerationType="class">
+        <attribute name="tag" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="gif" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="GIF" inverseName="tags" inverseEntity="GIF" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="GIF" positionX="-270" positionY="-81" width="128" height="73"/>
+        <element name="Tag" positionX="-54" positionY="9" width="128" height="75"/>
+    </elements>
+</model>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WhichGIF/Helper.swift"
+            timestampString = "546288470.5577689"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "generateRandomGIF(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WhichGIF/Helper.swift"
+            timestampString = "546288470.55838"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "generateRandomGIF(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static WhichGIF.Helper.generateRandomGIF(__ObjC.UIImageView) -&gt; ()"
+                  moduleName = "WhichGIF"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pavankulhalli/Documents/UCD/SEM%202/CocoaTouch/Project/Pavan_Kulhalli_17200274_Assignment_8/Code/WhichGIF/WhichGIF/Helper.swift"
+                  timestampString = "546220564.411592"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;GiphyCoreSDK.GPHMediaResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static WhichGIF.Helper.generateRandomGIF(__ObjC.UIImageView) -&gt; ()"
+                  moduleName = "WhichGIF"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pavankulhalli/Documents/UCD/SEM%202/CocoaTouch/Project/Pavan_Kulhalli_17200274_Assignment_8/Code/WhichGIF/WhichGIF/Helper.swift"
+                  timestampString = "546220564.417134"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "25">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "0"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
